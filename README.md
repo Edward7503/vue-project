@@ -42,3 +42,14 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
         pwd     --- 查看当前路径
         vi 文件名.后缀     --- 查看当前路径的某个文件
         ls     --- 查看当前路径下的所有内容
+
+    vue 中一些重要的属性:
+        data : vue　中对象的数据
+        methods　:　vue　对象的方法
+        watch　:　vue　对象数据的监听
+
+    重要指令:
+        ｖ-if　:　判断条件
+        v-show　:　控制对象是否显示
+        v-for　:　对象的循环
+        v-on　:　事件的绑定

@@ -22,7 +22,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 # vue 环境的搭建(mac端)
-# 1. 安装 vue(最新稳定版本)
     注: 因为 npm 在国内的下载网速可能会比较慢,所以需要使用 淘宝的 npm 镜像 cnpm;
     1) cnpm 安装:
         sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
